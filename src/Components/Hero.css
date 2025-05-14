@@ -1,0 +1,9 @@
+#hero-text{
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+
+    
+}

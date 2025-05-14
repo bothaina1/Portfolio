@@ -1,0 +1,12 @@
+#skills{
+  width: "800px" ;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align:"center";
+  padding-left: 300px;
+  padding-right: 300px;
+  margin-bottom: 50px;
+   
+}
